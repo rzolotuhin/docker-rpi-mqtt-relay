@@ -1,0 +1,9 @@
+{
+    "version": "2020.07.27",
+    "dependencies": {
+        "mqtt": "*",
+        "onoff": "*",
+        "fs": "*",
+        "ini": "*"
+    }
+}
